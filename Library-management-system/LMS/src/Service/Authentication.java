@@ -10,7 +10,11 @@ import java.util.Set;
 
 public class Authentication {
     private final Set<String> emails = new HashSet<>();
-    private Database database = new Database();
+    private Database database;
+
+    public Authentication(Database database){
+        this.database = database;
+    }
 
     public User signUp(String name, String email, String password) {
         if (!emails.add(email)) {
