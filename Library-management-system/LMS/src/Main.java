@@ -15,7 +15,7 @@ public class Main {
 
         Database database = new Database();
         Authentication authentication = new Authentication(database);
-        User user = null;
+        User user;
         AuthenticationView authenticationView = new AuthenticationView(authentication);
 
 

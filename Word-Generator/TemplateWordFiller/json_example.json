@@ -1,0 +1,41 @@
+{
+    "name": "محمد حمدي",
+    "age": "26",
+    "address": "Cairo, Egypt",
+    "position": "Java Developer",
+    "hrName": "Mr Nour Amr",
+    "email": "mohamed@gmail.com",
+    "name-c2": "Mohamed Hamdy",
+    "age-c2": "26",
+    "address-c2": "Cairo, Egypt",
+    "position-c2": "Java Developer",
+    "email-c2": "mohamed@gmail.com",
+    "teams":[
+        {
+            "team": "Finance",
+            "screen": "Invoice",
+            "mc": "Yes"
+        },
+        {
+            "team": "HR",
+            "screen": "Recruitment",
+            "mc": "No"
+        },
+        {
+            "team": "RM",
+            "screen": "Application-Create Package",
+            "mc": "Yes"
+        },
+        {
+            "team": "Credit",
+            "screen": "Credit Check",
+            "mc": "Yes"
+        },
+        {
+            "team": "CAD",
+            "screen": "CAD Check",
+            "mc": "Yes"
+        }
+    ]
+}
+  
